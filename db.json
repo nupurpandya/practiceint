@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "firstName": "Nupurrr",
+      "lastName": "Pandya",
+      "email": "abc@gmail.com",
+      "mobile": 1234567890,
+      "salary": 100000,
+      "id": 1
+    },
+    {
+      "firstName": "Manisha",
+      "lastName": "Pandya",
+      "email": "abc@gmail.com",
+      "mobile": 1234567890,
+      "salary": 100000,
+      "id": 2
+    }
+  ]
+}
